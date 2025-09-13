@@ -432,7 +432,7 @@ const Portfolio = () => {
               Get In Touch
             </a>
             <a 
-              href="#" 
+              href="https://github.com/SHIVA-SINGHx" 
               className="flex items-center justify-center gap-2 px-8 py-3 border-2 border-cyan-500 rounded-lg font-semibold hover:bg-cyan-500 hover:text-gray-900 transition-all duration-300"
             >
               <Github size={20} />
