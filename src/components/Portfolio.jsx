@@ -44,8 +44,9 @@ const Portfolio = () => {
     ],
     backend: [
       { name: 'Node.js', level: 90 },
+      {name: 'Python', level:  90},
       { name: 'Express.js', level: 85 },
-      { name: 'Django', level: 88 },
+      { name: 'Django', level: 90 },
       { name: 'MongoDB', level: 85 },
       { name: 'PostgreSQL', level: 82 }
     ],
