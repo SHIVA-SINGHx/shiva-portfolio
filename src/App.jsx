@@ -1,17 +1,13 @@
 import React from 'react'
-import AnimatedBackground from './components/AnimateBackground'
-import HeroSection from './components/HeroSection'
-import Header from './components/Header'
+import Portfolio from './components/Portfolio'
 
 
 
 const App = () => {
   return (
     <div>
-      <AnimatedBackground/>
-      <Header/>
-      <HeroSection/>
       
+      <Portfolio/>
     </div>
   )
 }
