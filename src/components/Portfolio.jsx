@@ -273,7 +273,7 @@ const Portfolio = () => {
             <a href="https://github.com/SHIVA-SINGHx" className="text-gray-400 hover:text-cyan-400 transition-colors transform hover:scale-110">
               <Github size={28} />
             </a>
-            <a href="#" className="text-gray-400 hover:text-cyan-400 transition-colors transform hover:scale-110">
+            <a href="https://www.linkedin.com/in/shiva-singh-b2104a373/" className="text-gray-400 hover:text-cyan-400 transition-colors transform hover:scale-110">
               <Linkedin size={28} />
             </a>
             <a href="shivasingh.1dev@gmail.com" className="text-gray-400 hover:text-cyan-400 transition-colors transform hover:scale-110">
