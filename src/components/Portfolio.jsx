@@ -64,21 +64,21 @@ const Portfolio = () => {
       title: "E-Commerce Microservices Platform",
       description: "Scalable microservices architecture with React frontend, Node.js/Django backends, and Docker containerization.",
       tech: ["React", "Node.js", "Django", "Docker", "AWS"],
-      github: "#",
+      github: "https://github.com/SHIVA-SINGHx",
       live: "#"
     },
     {
       title: "Real-time Chat Application",
       description: "Full-stack chat app with Socket.io, JWT authentication, and MongoDB for message persistence.",
       tech: ["React", "Socket.io", "Node.js", "MongoDB"],
-      github: "#",
+      github: "https://github.com/SHIVA-SINGHx",
       live: "#"
     },
     {
       title: "Cloud Infrastructure Automation",
       description: "DevOps project automating AWS infrastructure deployment using Terraform and CI/CD pipelines.",
       tech: ["AWS", "Terraform", "GitHub Actions", "Docker"],
-      github: "#",
+      github: "https://github.com/SHIVA-SINGHx",
       live: "#"
     }
   ];
