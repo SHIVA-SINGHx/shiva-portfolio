@@ -190,13 +190,15 @@ const Portfolio = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
-              <span className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-                Shiva
+              <a href="/">
+                <span className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
+                Shiva 
               </span>
+                </a> 
             </div>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-8">
-                {['Home', 'About', 'Skills', 'Projects', 'Blog', 'Contact'].map((item) => (
+                {[ 'Home', 'About', 'Skills', 'Projects', 'Blog', 'Contact'].map((item) => (
                   <button
                     key={item}
                     onClick={() => setActiveSection(item.toLowerCase())}
